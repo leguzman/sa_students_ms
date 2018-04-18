@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# sa_students_ms
 
+# sa_students_ms
+[x]bien
 Microservice for Students
 
 * Ruby
@@ -8,4 +8,4 @@ Microservice for Students
 * MySQL
 =======
 # sa_students_ms
->>>>>>> 4e2e5ce2b17452ba0d2af288c4a9a60d3cc5c07c
+
