@@ -7,11 +7,9 @@ info:
   description: Ruby + MySQL
   license:
     name: Software Architecture 2018-I
-<<<<<<< HEAD
-host: 192.168.99.101:4000
-=======
-host: 192.168.99.102:4500
->>>>>>> c467f5e37b9e54ccf9f746ea3b368ae415a6a263
+
+host: 192.168.99.102:4000
+
 basePath: /
 schemes:
   - http
@@ -159,11 +157,7 @@ definitions:
         type: string
       code:
         type: integer
-<<<<<<< HEAD
-=======
-      teacher:
-        type: string
->>>>>>> c467f5e37b9e54ccf9f746ea3b368ae415a6a263
+
 
   StudentInput:
     type: object
@@ -176,11 +170,7 @@ definitions:
         type: string
       code:
         type: integer
-<<<<<<< HEAD
-=======
-      teacher:
-        type: string
->>>>>>> c467f5e37b9e54ccf9f746ea3b368ae415a6a263
+
 
   StudentsList:
     type: object
